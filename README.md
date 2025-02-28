@@ -13,5 +13,6 @@ I'd like to acknowledge **Irina Demko** for her insightful work on fan charts, w
 📃 Chunk of code example
 ![Chunk of code example](https://github.com/user-attachments/assets/b4c4c7c8-f28e-4d85-8a6c-ade92cdfe749)
 
+
 📉 Data Output
 ![Data Output](https://github.com/user-attachments/assets/def09d3b-8688-439c-aeda-d2681e2164c8)
