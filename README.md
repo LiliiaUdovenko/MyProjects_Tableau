@@ -7,12 +7,11 @@ I'd like to acknowledge **Irina Demko** for her insightful work on fan charts, w
 - Due to Tableau's incompatibility with .sql files, Excel was employed as an intermediary for data preparation.
 - Tableau was the primary visualization tool used for this analysis.
 
-![Fan Chart Car Accidents](https://github.com/user-attachments/assets/0e534d81-9526-4a9a-8f1b-2d2365f80c03)
-![Screenshot 2025-02-26 124856](https://github.com/user-attachments/assets/e80c0c3f-7738-4f3a-888e-d915e2237a40)
+![Fan Chart Car Accidents](https://github.com/user-attachments/assets/2bb94275-0ac9-4c1f-973d-f79d90801642)
 
 
-Chunk of code example
+📃 Chunk of code example
 ![Chunk of code example](https://github.com/user-attachments/assets/b4c4c7c8-f28e-4d85-8a6c-ade92cdfe749)
 
-Data Output
+📉 Data Output
 ![Data Output](https://github.com/user-attachments/assets/def09d3b-8688-439c-aeda-d2681e2164c8)
