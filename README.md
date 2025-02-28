@@ -7,7 +7,9 @@ I'd like to acknowledge **Irina Demko** for her insightful work on fan charts, w
 - Due to Tableau's incompatibility with .sql files, Excel was employed as an intermediary for data preparation.
 - Tableau was the primary visualization tool used for this analysis.
 
+
 Inspired by
+
 ![Fan Chart Car Accidents](https://github.com/user-attachments/assets/2bb94275-0ac9-4c1f-973d-f79d90801642)
 
 
