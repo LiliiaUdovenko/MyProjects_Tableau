@@ -20,7 +20,8 @@ I hope you find these projects insightful and inspiring.
 ## Technical Charts
 
 ### 1 Dendrogramm divided by Sub-Category
-![Dendrogram Preview](https://github.com/user-attachments/assets/b127ecb4-2276-4256-ac4b-41adc249dbcf)
+![Dendrogram Preview](https://github.com/user-attachments/assets/57d144c0-266b-4a10-a673-d93cf2f5f505)
+
 
 
 ### 2 Jitter Loans in America
