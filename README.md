@@ -1,23 +1,35 @@
-I'd like to acknowledge **Irina Demko** for her insightful work on fan charts, which I encountered during my studies and which served as the inspiration for this project. The fan chart concept is derived from the car accident chart.
+### Welcome to my Tableau project portfolio. 
 
-![Fan Chart Flights](https://github.com/user-attachments/assets/e304ba77-2c42-418d-80d3-d60e201a2825)
+This page showcases my work, utilizing publicly available resources. As a rookie data analyst, I strive to expand my skills and knowledge.
 
-🎯 **This analysis utilizes a flight database from an SQL course.** 
-- Data manipulation and retrieval were performed using PostgreSQL. 
-- Due to Tableau's incompatibility with .sql files, Excel was employed as an intermediary for data preparation.
-- Tableau was the primary visualization tool used for this analysis.
+I hope you find these projects insightful and inspiring.
 
+### Projects that I am proud of
 
-Inspired by
-
-![Fan Chart Car Accidents](https://github.com/user-attachments/assets/2bb94275-0ac9-4c1f-973d-f79d90801642)
+## 1 Fan Chart Air Traffic by Hours
+![Fan Chart Flights preview](https://github.com/user-attachments/assets/a0ccb4ba-0a1e-44b9-81a3-fbbd36c6ba81)
 
 
-📃 Chunk of code example
+## 2 Double Fan Chart Air Alarms in Ukraine from 2022 to 2025
+![Double Fan Chart Air Alarms Preview](https://github.com/user-attachments/assets/f5e686a2-5297-46b3-b130-7a040e30e24d)
 
-![Chunk of code example](https://github.com/user-attachments/assets/b4c4c7c8-f28e-4d85-8a6c-ade92cdfe749)
+
+## 3 Hit Map Air Alarms in Ukraine from 2022 to 2025 as a Calendar of action
+![Air Alarms Preview 1](https://github.com/user-attachments/assets/d5870c2e-c1b8-4906-b0a4-4febf68f1dd0) ![Air Alarms Preview 2](https://github.com/user-attachments/assets/bd428740-f936-47bb-8cc5-7fdea6e22ea6)
+
+## 4 Number of Ukrainian VS russian schools in USSR 1987
+![UkrVSrus schools in USSR 1987 Prewiev 1](https://github.com/user-attachments/assets/dbf01652-7310-447e-be78-6efca21a3d45) ![UkrVSrus schools in USSR 1987 Prewiev 2](https://github.com/user-attachments/assets/7c67a81b-f767-4d4e-8e06-d0c2a25e0012)
 
 
-📉 Data Output
+### Technical knowledge
 
-![Data Output](https://github.com/user-attachments/assets/def09d3b-8688-439c-aeda-d2681e2164c8)
+## 1 Dendrogramm divided by Sub-Category
+![Dendrogram Preview](https://github.com/user-attachments/assets/b127ecb4-2276-4256-ac4b-41adc249dbcf)
+
+
+## 2 Jitter Loans in America
+![Jitter Chart Preview](https://github.com/user-attachments/assets/34f61e44-febf-4568-ac4e-58d7820cd09d)
+
+
+
+
